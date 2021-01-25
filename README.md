@@ -19,3 +19,7 @@ https://data-flair.training/blogs/data-science-r-sentiment-analysis-project/
 
 # Gender detection and age prediction
 https://www.pyimagesearch.com/2020/04/13/opencv-age-detection-with-deep-learning/
+
+
+# 130 ML projects
+https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392
